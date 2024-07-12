@@ -28,3 +28,4 @@ Before running the migration scripts, ensure you have the following:
 3. Execute the SQL scripts
 
 ## ERD
+![image](https://github.com/user-attachments/assets/7e17e421-78b9-4b0a-acce-bff83b189971)
